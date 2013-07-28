@@ -1,0 +1,26 @@
+body{font-family:arial,sans-serif;margin: 0; padding: 0;background-color:#efeff0;word-wrap: break-word;}
+p{margin-top:0;margin-bottom:5pt}
+#title_section{padding-top:6pt;background:transparent url('comment_topline.png') repeat-x scroll center bottom;-webkit-background-size:320px 2px;}
+#title{color:#464646;font-weight:bold;text-align:center;font-size:14pt;padding:0 10;}
+#subtitle{color:#8e8e8e;font-size:8pt;text-align:center;padding-top:3pt;padding-bottom:3pt}
+hr{display: block;position: relative;padding:0;margin: 0px auto;width: 95%;clear: both;border: none;border-top: 1px solid #AAA;border-bottom: 1px solid #FFF;font-size: 1px;line-height: 0;overflow: visible;}
+#body_section{padding-left:8pt;padding-right:8pt;padding-top:3pt;padding-bottom:10px;color:#333;font-size:12pt;line-height:16pt}
+#body_section.font_large{font-size:14pt;line-height:18pt;}
+#body_section.font_small{font-size:10pt;line-height:13pt;}
+.photo{position:relative;float:right;width:95px;height:95px;margin:5 0 5 5;clear:right;}
+.photo_box{width:90px;height:90px;margin-top:2px;margin-left:2px;overflow:hidden;display:block}
+
+.plus{position:relative;left:200px;top:88px;width:20px;height:20px;}
+
+/*.photo_box img{margin:auto;display: block;}*/
+
+*{-webkit-touch-callout: none; /* prevent callout to copy image, etc when tap to hold */
+    /*-webkit-text-size-adjust: none;*/ /* prevent webkit from resizing text to fit */
+    -webkit-tap-highlight-color: rgba(0,0,0,0.15); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+    /*-webkit-user-select: none; /* prevent copy paste, to allow, change 'none' to 'text' */
+}
+
+@media screen and (-webkit-device-pixel-ratio: 2) {
+    #title_section {
+        background:transparent url('comment_topline@2x.png') repeat-x scroll center bottom;}
+}

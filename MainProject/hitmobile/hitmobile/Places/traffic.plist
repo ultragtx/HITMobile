@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>playName</key>
+			<string>10路(制药二厂→承德广场)</string>
+			<key>quotations</key>
+			<array>
+				<string>制药二厂站 →</string>
+				<string>工程机械厂站 →</string>
+				<string>林机小区站 →</string>
+				<string>哈慈集团站 →</string>
+				<string>母亲广场站 →</string>
+				<string>锅炉厂站 →</string>
+				<string>电机厂站 →</string>
+				<string>乐园街站 →</string>
+				<string>乐松广场站 →</string>
+				<string>林业大学站 →</string>
+				<string>林业总医院站 →</string>
+				<string>林兴路站 →</string>
+				<string>哈师大(南校区)站 →</string>
+				<string>和兴路站 →</string>
+				<string>通达街站 →</string>
+				<string>西大桥站 →</string>
+				<string>哈工大站 →</string>
+				<string>省博览中心站 →</string>
+				<string>建设街站 →</string>
+				<string>秋林公司站 →</string>
+				<string>医大一院站 →</string>
+				<string>烟厂站 →</string>
+				<string>南极街站 →</string>
+				<string>承德广场站 (共24站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>11路(哈站→三乐源集团)</string>
+			<key>quotations</key>
+			<array>
+				<string>哈站 →</string>
+				<string>省博览中心站 →</string>
+				<string>哈铁路局站 →</string>
+				<string>哈工大站 →</string>
+				<string>西大桥站 →</string>
+				<string>骨伤科医院站 →</string>
+				<string>通达街站 →</string>
+				<string>和兴三道街站 →</string>
+				<string>和兴十一道街站 →</string>
+				<string>哈师大附中站 →</string>
+				<string>理工大学站 →</string>
+				<string>黑龙江大学(二一一医院)站 →</string>
+				<string>服装城站 →</string>
+				<string>哈医科大学站 →</string>
+				<string>医大二院站 →</string>
+				<string>三乐源集团站 (共16站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>31路(和平小区→文兴街)</string>
+			<key>quotations</key>
+			<array>
+				<string>和平小区站 →</string>
+				<string>天木小区站 →</string>
+				<string>红旗小区站 →</string>
+				<string>淮河路站 →</string>
+				<string>辽河小区站 →</string>
+				<string>嵩山小区站 →</string>
+				<string>先锋小区站 →</string>
+				<string>宣化街(先锋路路口)站 →</string>
+				<string>大成街站 →</string>
+				<string>儿童公园(东门)站 →</string>
+				<string>医大一院站 →</string>
+				<string>秋林公司站 →</string>
+				<string>建设街站 →</string>
+				<string>哈铁路局站 →</string>
+				<string>哈工大站 →</string>
+				<string>西大桥站 →</string>
+				<string>市骨伤科医院站 →</string>
+				<string>汉广街站 →</string>
+				<string>七政街站 →</string>
+				<string>和兴路站 →</string>
+				<string>和兴三道街(振兴街口)站 →</string>
+				<string>黑龙江信息技术职业学院站 →</string>
+				<string>文兴街站 (共23站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>55路(长安城西门→广播器材厂)</string>
+			<key>quotations</key>
+			<array>
+				<string>长安城西门站 →</string>
+				<string>卫星路站 →</string>
+				<string>市二院站 →</string>
+				<string>宏伟路站 →</string>
+				<string>药六嘉园站 →</string>
+				<string>宏南街站 →</string>
+				<string>桦树街站 →</string>
+				<string>道外公安分局站 →</string>
+				<string>太平桥站 →</string>
+				<string>南通大街站 →</string>
+				<string>哈工程大学站 →</string>
+				<string>烟厂站 →</string>
+				<string>医大一院站 →</string>
+				<string>秋林公司站 →</string>
+				<string>省博览中心站 →</string>
+				<string>哈铁路局站 →</string>
+				<string>哈工大站 →</string>
+				<string>西大桥站 →</string>
+				<string>市骨伤科医院站 →</string>
+				<string>汉广街站 →</string>
+				<string>一匡街站 →</string>
+				<string>王兆新村(文昌街)站 →</string>
+				<string>铁路二院站 →</string>
+				<string>和平桥站 →</string>
+				<string>省中医药大学站 →</string>
+				<string>乐松广场站 →</string>
+				<string>乐园街站 →</string>
+				<string>电机厂站 →</string>
+				<string>锅炉厂站 →</string>
+				<string>母亲广场站 →</string>
+				<string>哈慈集团站 →</string>
+				<string>林机小区站 →</string>
+				<string>工程机械厂站 →</string>
+				<string>制药二厂站 →</string>
+				<string>立汇美罗湾站 →</string>
+				<string>带钢厂站 →</string>
+				<string>广播器材厂站 (共37站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>63路(建工新区→达江小区)</string>
+			<key>quotations</key>
+			<array>
+				<string>建工新区站 →</string>
+				<string>十字街站 →</string>
+				<string>龙运大厦(芦家街)站 →</string>
+				<string>宣化街站 →</string>
+				<string>省档案馆站 →</string>
+				<string>革新街站 →</string>
+				<string>儿童公园站 →</string>
+				<string>秋林公司站 →</string>
+				<string>省博览中心站 →</string>
+				<string>哈铁路局站 →</string>
+				<string>哈工大站 →</string>
+				<string>西大桥站 →</string>
+				<string>市骨伤科医院站 →</string>
+				<string>通达街站 →</string>
+				<string>和兴路站 →</string>
+				<string>四十七中学站 →</string>
+				<string>大发市场站 →</string>
+				<string>武警医院站 →</string>
+				<string>康安路站 →</string>
+				<string>顾乡站 →</string>
+				<string>达江小区站 (共21站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>64路(道外二十道街→拖配医院)</string>
+			<key>quotations</key>
+			<array>
+				<string>道外二十道街站 →</string>
+				<string>太古十八道街站 →</string>
+				<string>太古十六道街站 →</string>
+				<string>太古十四道街站 →</string>
+				<string>阿拉伯广场站 →</string>
+				<string>道外十二道街站 →</string>
+				<string>道外七道街站 →</string>
+				<string>道外三道街站 →</string>
+				<string>北环商城站 →</string>
+				<string>儿童医院站 →</string>
+				<string>道里三道街站 →</string>
+				<string>中国人寿保险公司(道里七道街)站 →</string>
+				<string>哈一百站 →</string>
+				<string>哈站 →</string>
+				<string>博物馆站 →</string>
+				<string>哈铁路局站 →</string>
+				<string>哈工大站 →</string>
+				<string>西大桥站 →</string>
+				<string>市骨伤科医院站 →</string>
+				<string>通达街站 →</string>
+				<string>和兴路站 →</string>
+				<string>和兴三道街站 →</string>
+				<string>和兴十一道街站 →</string>
+				<string>哈师大附中站 →</string>
+				<string>工电路站 →</string>
+				<string>颐和家园站 →</string>
+				<string>钢材市场站 →</string>
+				<string>哈西头道街站 →</string>
+				<string>铸造厂站 →</string>
+				<string>拖配医院站 (共30站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>81路(哈站→前进村)</string>
+			<key>quotations</key>
+			<array>
+				<string>哈站 →</string>
+				<string>省博览中心站 →</string>
+				<string>哈铁路局站 →</string>
+				<string>哈工大站 →</string>
+				<string>西大桥站 →</string>
+				<string>市骨伤科医院站 →</string>
+				<string>汉广街站 →</string>
+				<string>一匡街站 →</string>
+				<string>王兆新村站 →</string>
+				<string>铁路二院站 →</string>
+				<string>和平桥站 →</string>
+				<string>省中医药大学站 →</string>
+				<string>哈平路站 →</string>
+				<string>花卉市场站 →</string>
+				<string>植物园站 →</string>
+				<string>远大都市绿洲(林科院)站 →</string>
+				<string>省肿瘤医院站 →</string>
+				<string>第二殡仪所站 →</string>
+				<string>铁路肿瘤医院站 →</string>
+				<string>黑龙江民族干部学院站 →</string>
+				<string>恒民玻璃公司站 →</string>
+				<string>前进村站 (共22站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>82路(天木小区→省五院)</string>
+			<key>quotations</key>
+			<array>
+				<string>天木小区站 →</string>
+				<string>淮河路站 →</string>
+				<string>辽河路站 →</string>
+				<string>辽河小区站 →</string>
+				<string>黑龙江科技学院(嵩山校区)站 →</string>
+				<string>哈工大第二学区站 →</string>
+				<string>市老龄委站 →</string>
+				<string>汉水路站 →</string>
+				<string>创业中心站 →</string>
+				<string>市质检院站 →</string>
+				<string>省妇儿中心站 →</string>
+				<string>珠江路站 →</string>
+				<string>天鹅饭店站 →</string>
+				<string>省政府站 →</string>
+				<string>文昌街站 →</string>
+				<string>工人文化宫站 →</string>
+				<string>文明街站 →</string>
+				<string>市公共电车总公司站 →</string>
+				<string>河沟街站 →</string>
+				<string>省博览中心站 →</string>
+				<string>哈铁路局站 →</string>
+				<string>哈工大站 →</string>
+				<string>西大桥站 →</string>
+				<string>市骨伤科医院站 →</string>
+				<string>三孔桥站 →</string>
+				<string>哈商大(南学区)站 →</string>
+				<string>市中心医院站 →</string>
+				<string>建国公园站 →</string>
+				<string>市中医医院站 →</string>
+				<string>顾乡站 →</string>
+				<string>十四中学站 →</string>
+				<string>武警指挥学校站 →</string>
+				<string>省五院站 (共33站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>86路(河柏小区→团结街)</string>
+			<key>quotations</key>
+			<array>
+				<string>河柏小区站 →</string>
+				<string>河山街站 →</string>
+				<string>华风江畔小区站 →</string>
+				<string>河松街站 →</string>
+				<string>哈报印务中心站 →</string>
+				<string>建国街(康安路路口)站 →</string>
+				<string>康安路站 →</string>
+				<string>市中心医院站 →</string>
+				<string>市行政服务中心站 →</string>
+				<string>安发桥站 →</string>
+				<string>抚顺街站 →</string>
+				<string>教化广场站 →</string>
+				<string>哈工大站 →</string>
+				<string>哈铁路局站 →</string>
+				<string>省博览中心站 →</string>
+				<string>河沟街站 →</string>
+				<string>工人文化宫站 →</string>
+				<string>文昌街站 →</string>
+				<string>宣化街站 →</string>
+				<string>宣庆街站 →</string>
+				<string>黄河路站 →</string>
+				<string>长江路(晨报)站 →</string>
+				<string>黑龙江商旅(汉水路)站 →</string>
+				<string>华山路(赣水路口)站 →</string>
+				<string>创业中心站 →</string>
+				<string>建北小区站 →</string>
+				<string>红旗大街(珠江路口)站 →</string>
+				<string>香电街站 →</string>
+				<string>公滨路站 →</string>
+				<string>朝一中站 →</string>
+				<string>木材东街(公滨路道口)站 →</string>
+				<string>团结街站 (共32站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>92路(靖宇二十道街→河松小区)的</string>
+			<key>quotations</key>
+			<array>
+				<string>靖宇二十道街站 →</string>
+				<string>市老年医院站 →</string>
+				<string>南通大街站 →</string>
+				<string>哈工程大学站 →</string>
+				<string>美华修配厂站 →</string>
+				<string>先锋路(宣化街口)站 →</string>
+				<string>大成街站 →</string>
+				<string>芦家街站 →</string>
+				<string>人和街站 →</string>
+				<string>儿童公园站 →</string>
+				<string>秋林公司站 →</string>
+				<string>博物馆站 →</string>
+				<string>萧红中学站 →</string>
+				<string>松花江街站 →</string>
+				<string>哈工大站 →</string>
+				<string>西大桥站 →</string>
+				<string>市骨伤科医院站 →</string>
+				<string>汉广街站 →</string>
+				<string>西大直街站 →</string>
+				<string>三孔桥站 →</string>
+				<string>哈商大(南学区)站 →</string>
+				<string>市中心医院站 →</string>
+				<string>建国公园站 →</string>
+				<string>河松街站 →</string>
+				<string>华风江畔小区站 →</string>
+				<string>河松小区站 (共26站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>94路(皇家花园→省测绘局)</string>
+			<key>quotations</key>
+			<array>
+				<string>皇家花园站 →</string>
+				<string>道外二十道街站 →</string>
+				<string>太古十八道街站 →</string>
+				<string>太古十六道街站 →</string>
+				<string>太古十四道街站 →</string>
+				<string>阿拉伯广场站 →</string>
+				<string>道外十二道街站 →</string>
+				<string>道外七道街站 →</string>
+				<string>道外三道街站 →</string>
+				<string>北环商城站 →</string>
+				<string>儿童医院站 →</string>
+				<string>道里三道街站 →</string>
+				<string>中国人寿保险公司(道里七道街)站 →</string>
+				<string>哈一百站 →</string>
+				<string>儿童电影院站 →</string>
+				<string>哈站 →</string>
+				<string>博物馆站 →</string>
+				<string>哈铁路局站 →</string>
+				<string>哈工大站 →</string>
+				<string>西大桥站 →</string>
+				<string>市骨伤科医院站 →</string>
+				<string>通达街站 →</string>
+				<string>和兴路站 →</string>
+				<string>和兴三道街站 →</string>
+				<string>和兴十一道街站 →</string>
+				<string>哈师大附中站 →</string>
+				<string>哈理工大学站 →</string>
+				<string>黑龙江大学(二一一医院)站 →</string>
+				<string>服装城站 →</string>
+				<string>学府四道街站 →</string>
+				<string>测绘路站 →</string>
+				<string>省测绘局站 (共32站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>104路(新中新集团→太平桥)</string>
+			<key>quotations</key>
+			<array>
+				<string>新中新集团站 →</string>
+				<string>哈达屯站 →</string>
+				<string>机电工程学校站 →</string>
+				<string>市客车厂站 →</string>
+				<string>电影机厂站 →</string>
+				<string>医大二院站 →</string>
+				<string>哈医科大学站 →</string>
+				<string>服装城站 →</string>
+				<string>黑龙江大学(二一一医院)站 →</string>
+				<string>哈理工大学站 →</string>
+				<string>哈师大附中站 →</string>
+				<string>和兴十一道街站 →</string>
+				<string>和兴三道街站 →</string>
+				<string>和兴路站 →</string>
+				<string>通达街站 →</string>
+				<string>西大桥站 →</string>
+				<string>哈工大站 →</string>
+				<string>哈铁路局站 →</string>
+				<string>省博览中心站 →</string>
+				<string>建设街站 →</string>
+				<string>秋林公司站 →</string>
+				<string>医大一院站 →</string>
+				<string>烟厂站 →</string>
+				<string>哈工程大学站 →</string>
+				<string>南通大街站 →</string>
+				<string>太平桥站 (共26站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>107路(薛家屯→龙江锅炉厂)</string>
+			<key>quotations</key>
+			<array>
+				<string>薛家屯站 →</string>
+				<string>省肿瘤医院站 →</string>
+				<string>远大都市绿洲站 →</string>
+				<string>哈医大肿瘤医院北门站 →</string>
+				<string>保健路站 →</string>
+				<string>征仪路站 →</string>
+				<string>银行培训学校站 →</string>
+				<string>学府三道街站 →</string>
+				<string>黑龙江大学(二一一医院)站 →</string>
+				<string>哈理工大学站 →</string>
+				<string>哈师大学附中站 →</string>
+				<string>和兴十一道街站 →</string>
+				<string>和兴三道街站 →</string>
+				<string>和兴路站 →</string>
+				<string>通达街站 →</string>
+				<string>西大桥站 →</string>
+				<string>哈工大站 →</string>
+				<string>哈铁路局站 →</string>
+				<string>省博览中心站 →</string>
+				<string>哈尔滨火车站 →</string>
+				<string>烈士馆站 →</string>
+				<string>市住房公积金中心站 →</string>
+				<string>南马路站 →</string>
+				<string>承德广场站 →</string>
+				<string>景阳街站 →</string>
+				<string>道外三道街站 →</string>
+				<string>道外七道街站 →</string>
+				<string>道外十二道街站 →</string>
+				<string>道台府站 →</string>
+				<string>道外二十道街站 →</string>
+				<string>松浦大桥站 →</string>
+				<string>龙江锅炉厂站 (共32站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>110路(群力公交首站→群力公交末站)</string>
+			<key>quotations</key>
+			<array>
+				<string>群力公交首末站 →</string>
+				<string>天鹅湾小区站 →</string>
+				<string>美晨家园站 →</string>
+				<string>新天地家园站 →</string>
+				<string>海富康城小区站 →</string>
+				<string>建国街(康安路道口)站 →</string>
+				<string>武警医院站 →</string>
+				<string>大发市场站 →</string>
+				<string>和兴路站 →</string>
+				<string>通达街站 →</string>
+				<string>西大桥站 →</string>
+				<string>哈工大站 →</string>
+				<string>哈铁路局站 →</string>
+				<string>省博览中心站 →</string>
+				<string>哈站 →</string>
+				<string>儿童电影院站 →</string>
+				<string>经纬街站 →</string>
+				<string>安升街(新阳路路口)站 →</string>
+				<string>市行政服务中心站 →</string>
+				<string>市中心医院站 →</string>
+				<string>康安路站 →</string>
+				<string>建国街(康安路道口)站 →</string>
+				<string>海富康城小区站 →</string>
+				<string>新天地家园站 →</string>
+				<string>美晨家园站 →</string>
+				<string>天鹅湾小区站 →</string>
+				<string>群力公交首末站 (共27站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>119路(省博览中心→君安绿色家园)</string>
+			<key>quotations</key>
+			<array>
+				<string>省博览中心站 →</string>
+				<string>哈铁路局站 →</string>
+				<string>哈工大站 →</string>
+				<string>西大桥站 →</string>
+				<string>汉广街站 →</string>
+				<string>汉祥街站 →</string>
+				<string>西大直街站 →</string>
+				<string>三孔桥站 →</string>
+				<string>哈商大(南学区)站 →</string>
+				<string>民安街站 →</string>
+				<string>新阳路站 →</string>
+				<string>建国街站 →</string>
+				<string>前进路站 →</string>
+				<string>公路大桥站 →</string>
+				<string>太阳岛道口站 →</string>
+				<string>怡园路(新新怡园)站 →</string>
+				<string>前进道口站 →</string>
+				<string>松北区政府站 →</string>
+				<string>银河小区站 →</string>
+				<string>哈商大(北校区)站 →</string>
+				<string>君安绿色家园站 (共21站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>夜3路(三乐源集团→哈站)</string>
+			<key>quotations</key>
+			<array>
+				<string>三乐源集团站 →</string>
+				<string>医大二院站 →</string>
+				<string>哈医科大学站 →</string>
+				<string>服装城站 →</string>
+				<string>黑龙江大学(二一一医院)站 →</string>
+				<string>哈理工大学站 →</string>
+				<string>哈师大附中站 →</string>
+				<string>和兴十一道街站 →</string>
+				<string>和兴三道街站 →</string>
+				<string>通达街站 →</string>
+				<string>市骨伤科医院站 →</string>
+				<string>西大桥站 →</string>
+				<string>哈工大站 →</string>
+				<string>哈铁路局站 →</string>
+				<string>省博览中心站 →</string>
+				<string>哈站 (共16站)</string>
+			</array>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>playName</key>
+			<string>33路(哈东站→汽车齿轮厂)</string>
+			<key>quotations</key>
+			<array>
+				<string>哈东站 →</string>
+				<string>桦树街站 →</string>
+				<string>宏南街站 →</string>
+				<string>药六嘉园站 →</string>
+				<string>宏伟路站 →</string>
+				<string>市二院站 →</string>
+				<string>宏伟路(先锋路路口)站 →</string>
+				<string>红旗大街(先锋路路口)站 →</string>
+				<string>嵩山小区站 →</string>
+				<string>先锋小区站 →</string>
+				<string>宣化街(先锋路路口)站 →</string>
+				<string>美华修配厂站 →</string>
+				<string>哈工程大学站 →</string>
+				<string>烟厂站 →</string>
+				<string>医大一院站 →</string>
+				<string>秋林公司站 →</string>
+				<string>博物馆站 →</string>
+				<string>萧红中学站 →</string>
+				<string>松花江街站 →</string>
+				<string>教化广场站 →</string>
+				<string>抚顺街站 →</string>
+				<string>安发桥站 →</string>
+				<string>市行政服务中心站 →</string>
+				<string>市中心医院站 →</string>
+				<string>康安路站 →</string>
+				<string>埃德蒙顿路(康安路路口)站 →</string>
+				<string>市十院站 →</string>
+				<string>职工街站 →</string>
+				<string>先进街站 →</string>
+				<string>迎宾小区站 →</string>
+				<string>龙江客车厂站 →</string>
+				<string>市运输总公司站 →</string>
+				<string>汽车齿轮厂站 (共33站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>88路(大众新城→龙江第一村)</string>
+			<key>quotations</key>
+			<array>
+				<string>大众新城站 →</string>
+				<string>征仪路站 →</string>
+				<string>长寿路站 →</string>
+				<string>学府四道街站 →</string>
+				<string>服装城站 →</string>
+				<string>黑龙江大学(二一一医院)站 →</string>
+				<string>哈理工大学站 →</string>
+				<string>哈师大附中站 →</string>
+				<string>省委党校站 →</string>
+				<string>和兴三道街(清滨路口)站 →</string>
+				<string>清滨路站 →</string>
+				<string>七政街站 →</string>
+				<string>贵新街站 →</string>
+				<string>西大直街(贵新街口)站 →</string>
+				<string>瓦街站 →</string>
+				<string>铁路街站 →</string>
+				<string>哈站 →</string>
+				<string>哈铁第四小学站 →</string>
+				<string>松花江街站 →</string>
+				<string>教化广场站 →</string>
+				<string>抚顺街站 →</string>
+				<string>安发桥站 →</string>
+				<string>安和街站 →</string>
+				<string>河广街站 →</string>
+				<string>前进路站 →</string>
+				<string>公路大桥站 →</string>
+				<string>太阳岛道口站 →</string>
+				<string>新新怡园站 →</string>
+				<string>前进道口站 →</string>
+				<string>区政府站 →</string>
+				<string>银河小区站 →</string>
+				<string>哈商大(北学区)站 →</string>
+				<string>君安绿色家园(前进路)站 →</string>
+				<string>后汲家站 →</string>
+				<string>龙江第一村站 (共35站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>89路(哈东站→安隆街)</string>
+			<key>quotations</key>
+			<array>
+				<string>哈东站 →</string>
+				<string>桦树街站 →</string>
+				<string>南直商场站 →</string>
+				<string>药六嘉园站 →</string>
+				<string>宏图街站 →</string>
+				<string>红平小区站 →</string>
+				<string>红旗家具城站 →</string>
+				<string>辽河路(红旗大街口)站 →</string>
+				<string>辽河市场站 →</string>
+				<string>辽河小区站 →</string>
+				<string>哈工大第二学区站 →</string>
+				<string>黄河路站 →</string>
+				<string>宣庆小区站 →</string>
+				<string>十字街站 →</string>
+				<string>芦家街站 →</string>
+				<string>人和街站 →</string>
+				<string>儿童公园(东门)站 →</string>
+				<string>辽阳街站 →</string>
+				<string>花园商店站 →</string>
+				<string>医大一院站 →</string>
+				<string>阿什河街(邮政街路口)站 →</string>
+				<string>哈三中(哈医大第四医院)站 →</string>
+				<string>哈站 →</string>
+				<string>下夹树街站 →</string>
+				<string>货栈街站 →</string>
+				<string>教化广场站 →</string>
+				<string>抚顺街站 →</string>
+				<string>安发桥站 →</string>
+				<string>安广街站 →</string>
+				<string>安丰街站 →</string>
+				<string>安定街站 →</string>
+				<string>安隆街站 (共32站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>112路(工程街→哈铁党校)</string>
+			<key>quotations</key>
+			<array>
+				<string>工程街站 →</string>
+				<string>经纬八道街站 →</string>
+				<string>经纬校站 →</string>
+				<string>安升街(新阳路路口)站 →</string>
+				<string>安发桥站 →</string>
+				<string>抚顺街站 →</string>
+				<string>教化广场站 →</string>
+				<string>哈工大站 →</string>
+				<string>松花江街站 →</string>
+				<string>河沟街站 →</string>
+				<string>市公共电车总公司站 →</string>
+				<string>文明街站 →</string>
+				<string>黑龙江东北医院站 →</string>
+				<string>宣化街站 →</string>
+				<string>中宣街站 →</string>
+				<string>省人才市场站 →</string>
+				<string>龙塔站 →</string>
+				<string>玉山路站 →</string>
+				<string>市老龄委站 →</string>
+				<string>创业中心站 →</string>
+				<string>建北小区站 →</string>
+				<string>玻璃钢研究院(红旗大街)站 →</string>
+				<string>香滨小学站 →</string>
+				<string>公滨路站 →</string>
+				<string>朝一中站 →</string>
+				<string>延福街站 →</string>
+				<string>果园街站 →</string>
+				<string>油坊街站 →</string>
+				<string>哈铁党校站 (共29站)</string>
+			</array>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>playName</key>
+			<string>17路(爱建新城→电碳厂)</string>
+			<key>quotations</key>
+			<array>
+				<string>爱建新城站 →</string>
+				<string>安升街站 →</string>
+				<string>安发桥站 →</string>
+				<string>抚顺街站 →</string>
+				<string>教化广场站 →</string>
+				<string>复华小区站 →</string>
+				<string>公司街站 →</string>
+				<string>市公共电车总公司站 →</string>
+				<string>文明街站 →</string>
+				<string>工人文化宫站 →</string>
+				<string>革新街站 →</string>
+				<string>宣化街站 →</string>
+				<string>宣庆小区(十字街)站 →</string>
+				<string>省人才市场站 →</string>
+				<string>鸿翔路站 →</string>
+				<string>香坊万达广场(省林业厅)站 →</string>
+				<string>三辅街站 →</string>
+				<string>菜艺街站 →</string>
+				<string>横道街站 →</string>
+				<string>红旗大街(公滨路口)站 →</string>
+				<string>香滨小学站 →</string>
+				<string>公滨路站 →</string>
+				<string>朝一中站 →</string>
+				<string>木材东街(公滨道路口)站 →</string>
+				<string>气象台站 →</string>
+				<string>银行学校站 →</string>
+				<string>二水文站 →</string>
+				<string>电碳厂站 (共28站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>120路(绿茵小区→保健路)</string>
+			<key>quotations</key>
+			<array>
+				<string>绿茵小区站 →</string>
+				<string>南直商场站 →</string>
+				<string>桦树街站 →</string>
+				<string>网通东直路营业厅站 →</string>
+				<string>南直小区站 →</string>
+				<string>港务局站 →</string>
+				<string>木材市场站 →</string>
+				<string>油石厂站 →</string>
+				<string>更新街站 →</string>
+				<string>松浦大桥站 →</string>
+				<string>靖宇二十道街站 →</string>
+				<string>市四院站 →</string>
+				<string>阿拉伯广场站 →</string>
+				<string>南勋十四道街站 →</string>
+				<string>南勋街站 →</string>
+				<string>太古六道街站 →</string>
+				<string>太古头道街站 →</string>
+				<string>承德广场站 →</string>
+				<string>南马路站 →</string>
+				<string>市住房公积金中心站 →</string>
+				<string>烈士馆站 →</string>
+				<string>哈站 →</string>
+				<string>省博览中心站 →</string>
+				<string>博览中心站 →</string>
+				<string>公司街站 →</string>
+				<string>复华小区站 →</string>
+				<string>文君花园小区站 →</string>
+				<string>文库街站 →</string>
+				<string>文政街站 →</string>
+				<string>科大小区站 →</string>
+				<string>征仪路站 →</string>
+				<string>保健路站 (共32站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>22路(和鑫集团→达道街)</string>
+			<key>quotations</key>
+			<array>
+				<string>和鑫集团站 →</string>
+				<string>黎明大市场站 →</string>
+				<string>制药二厂站 →</string>
+				<string>工程机械厂站 →</string>
+				<string>林机小区站 →</string>
+				<string>哈慈集团站 →</string>
+				<string>汽轮机厂站 →</string>
+				<string>东光厂站 →</string>
+				<string>轴承厂站 →</string>
+				<string>香坊大街(红旗大街路口)站 →</string>
+				<string>横道街站 →</string>
+				<string>西香坊站 →</string>
+				<string>省医院站 →</string>
+				<string>天鹅饭店站 →</string>
+				<string>省政府站 →</string>
+				<string>省劳动厅站 →</string>
+				<string>一二五中站 →</string>
+				<string>文库街站 →</string>
+				<string>复华小区站 →</string>
+				<string>教化广场站 →</string>
+				<string>抚顺街站 →</string>
+				<string>安发桥站 →</string>
+				<string>市行政服务中心站 →</string>
+				<string>建国街站 →</string>
+				<string>前进路站 →</string>
+				<string>公路大桥站 →</string>
+				<string>达道街站 (共27站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>25路(黑渔泡金属→圣中家俱大世界)</string>
+			<key>quotations</key>
+			<array>
+				<string>黑渔泡金属市场站 →</string>
+				<string>哈制药四厂站 →</string>
+				<string>十四中学站 →</string>
+				<string>顾乡站 →</string>
+				<string>市中医医院站 →</string>
+				<string>建国公园站 →</string>
+				<string>建国街站 →</string>
+				<string>安和街站 →</string>
+				<string>安发桥站 →</string>
+				<string>抚顺街站 →</string>
+				<string>教化广场站 →</string>
+				<string>复华小区站 →</string>
+				<string>文库街站 →</string>
+				<string>一二五中站 →</string>
+				<string>宣化街站 →</string>
+				<string>省红十字会站 →</string>
+				<string>芦家街(十字街)站 →</string>
+				<string>十字街站 →</string>
+				<string>大成街站 →</string>
+				<string>儿童公园(东门)站 →</string>
+				<string>东大直街站 →</string>
+				<string>烟厂站 →</string>
+				<string>哈工程大学站 →</string>
+				<string>南通大街站 →</string>
+				<string>延平街站 →</string>
+				<string>太平桥站 →</string>
+				<string>道外公安分局站 →</string>
+				<string>网通东直路营业厅站 →</string>
+				<string>南直小区站 →</string>
+				<string>圣中家俱大世界站 (共30站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>90路(北棵街→达江小区)</string>
+			<key>quotations</key>
+			<array>
+				<string>北棵街站 →</string>
+				<string>哈东站 →</string>
+				<string>桦树街站 →</string>
+				<string>第十二中学站 →</string>
+				<string>宏南街站 →</string>
+				<string>药六嘉园站 →</string>
+				<string>宏伟路站 →</string>
+				<string>大有坊街站 →</string>
+				<string>红平小区站 →</string>
+				<string>红旗家具城站 →</string>
+				<string>辽河路(红旗大街街口)站 →</string>
+				<string>淮河路(红旗大街街口)站 →</string>
+				<string>会展中心站 →</string>
+				<string>松雷中学站 →</string>
+				<string>汉水路(红旗大街街口)站 →</string>
+				<string>建北小区站 →</string>
+				<string>市质检院站 →</string>
+				<string>省妇儿中心站 →</string>
+				<string>菜艺街站 →</string>
+				<string>祖国医药研究所站 →</string>
+				<string>香滨路站 →</string>
+				<string>亚麻厂站 →</string>
+				<string>量具厂站 →</string>
+				<string>民生路站 →</string>
+				<string>文成街站 →</string>
+				<string>文库街站 →</string>
+				<string>复华小区站 →</string>
+				<string>教化广场站 →</string>
+				<string>西大桥站 →</string>
+				<string>市骨伤科医院站 →</string>
+				<string>通达街站 →</string>
+				<string>和兴路站 →</string>
+				<string>四十七中学站 →</string>
+				<string>康安大发市场站 →</string>
+				<string>康安路站 →</string>
+				<string>市十院站 →</string>
+				<string>顾乡大街站 →</string>
+				<string>达江小区站 (共38站)</string>
+			</array>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>playName</key>
+			<string>62路(禧龙五金市场→黎明大市场)</string>
+			<key>quotations</key>
+			<array>
+				<string>禧龙五金市场站 →</string>
+				<string>禧龙石材市场站 →</string>
+				<string>禧龙陶瓷大市场站 →</string>
+				<string>东化工路(先锋路路口)站 →</string>
+				<string>古铁市场站 →</string>
+				<string>哈油漆厂站 →</string>
+				<string>东棵街站 →</string>
+				<string>省戒毒中心站 →</string>
+				<string>宏伟路(先锋路路口)站 →</string>
+				<string>市二院站 →</string>
+				<string>红旗家具城站 →</string>
+				<string>红旗大街(先锋路路口)站 →</string>
+				<string>嵩山小区站 →</string>
+				<string>先锋路(华山路口)站 →</string>
+				<string>华山路(哈体院)站 →</string>
+				<string>哈工大二学区站 →</string>
+				<string>建工新区站 →</string>
+				<string>海河路站 →</string>
+				<string>理治街站 →</string>
+				<string>宣化街站 →</string>
+				<string>革新街站 →</string>
+				<string>工人文化宫站 →</string>
+				<string>文明街站 →</string>
+				<string>黑龙江东北医院站 →</string>
+				<string>一二五中站 →</string>
+				<string>文政街站 →</string>
+				<string>林大图书馆站 →</string>
+				<string>林业大学站 →</string>
+				<string>乐松广场站 →</string>
+				<string>乐园街站 →</string>
+				<string>电机厂站 →</string>
+				<string>电塔街站 →</string>
+				<string>锅炉厂站 →</string>
+				<string>母亲广场站 →</string>
+				<string>汽轮机厂站 →</string>
+				<string>热电厂站 →</string>
+				<string>安通桥站 →</string>
+				<string>黎明乡站 →</string>
+				<string>黎明大市场站 (共39站)</string>
+			</array>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>playName</key>
+			<string>27路(韩家洼子→香坊火车站)</string>
+			<key>quotations</key>
+			<array>
+				<string>韩家洼子站 →</string>
+				<string>哈东钢材市场站 →</string>
+				<string>太平机械厂站 →</string>
+				<string>道口街站 →</string>
+				<string>哈东站 →</string>
+				<string>桦树街站 →</string>
+				<string>宏南街站 →</string>
+				<string>药六嘉园站 →</string>
+				<string>宏伟路站 →</string>
+				<string>市二院站 →</string>
+				<string>宏伟路(先锋路路口)站 →</string>
+				<string>辽河路(红旗大街街口)站 →</string>
+				<string>淮河路(红旗大街街口)站 →</string>
+				<string>新苑小区(信恒小区)站 →</string>
+				<string>哈工大第二学区站 →</string>
+				<string>黄河路站 →</string>
+				<string>宣庆街站 →</string>
+				<string>鸿翔路站 →</string>
+				<string>香坊万达广场(省林业厅)站 →</string>
+				<string>珠江路站 →</string>
+				<string>省医院站 →</string>
+				<string>西香坊站 →</string>
+				<string>香坊大街(中山路)站 →</string>
+				<string>香坊火车站 (共24站)</string>
+			</array>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>playName</key>
+			<string>70路(水木兰亭小区→省航运站)</string>
+			<key>quotations</key>
+			<array>
+				<string>水木兰亭小区站 →</string>
+				<string>油坊街(果园街口)站 →</string>
+				<string>东门街站 →</string>
+				<string>建德小区站 →</string>
+				<string>公滨路站 →</string>
+				<string>香滨小学站 →</string>
+				<string>红旗大街(公滨路口)站 →</string>
+				<string>横道街站 →</string>
+				<string>菜艺街站 →</string>
+				<string>省妇儿中心站 →</string>
+				<string>市质检院站 →</string>
+				<string>创业中心站 →</string>
+				<string>汉水路站 →</string>
+				<string>市老龄委站 →</string>
+				<string>哈工大第二学区站 →</string>
+				<string>黑龙江科技学院(嵩山校区)站 →</string>
+				<string>辽河小区站 →</string>
+				<string>嵩山小区站 →</string>
+				<string>先锋小区站 →</string>
+				<string>先锋路(宣化街)站 →</string>
+				<string>美华修配厂站 →</string>
+				<string>哈工程大学站 →</string>
+				<string>南通大街站 →</string>
+				<string>市老年医院站 →</string>
+				<string>太古二十道街站 →</string>
+				<string>南新街站 →</string>
+				<string>靖宇十八道街站 →</string>
+				<string>道台府站 →</string>
+				<string>道外十二道街站 →</string>
+				<string>省航运站 (共30站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>82路(天木小区→省五院)</string>
+			<key>quotations</key>
+			<array>
+				<string>天木小区站 →</string>
+				<string>淮河路站 →</string>
+				<string>辽河路站 →</string>
+				<string>辽河小区站 →</string>
+				<string>黑龙江科技学院(嵩山校区)站 →</string>
+				<string>哈工大第二学区站 →</string>
+				<string>市老龄委站 →</string>
+				<string>汉水路站 →</string>
+				<string>创业中心站 →</string>
+				<string>市质检院站 →</string>
+				<string>省妇儿中心站 →</string>
+				<string>珠江路站 →</string>
+				<string>天鹅饭店站 →</string>
+				<string>省政府站 →</string>
+				<string>文昌街站 →</string>
+				<string>工人文化宫站 →</string>
+				<string>文明街站 →</string>
+				<string>市公共电车总公司站 →</string>
+				<string>河沟街站 →</string>
+				<string>省博览中心站 →</string>
+				<string>哈铁路局站 →</string>
+				<string>哈工大站 →</string>
+				<string>西大桥站 →</string>
+				<string>市骨伤科医院站 →</string>
+				<string>三孔桥站 →</string>
+				<string>哈商大(南学区)站 →</string>
+				<string>市中心医院站 →</string>
+				<string>建国公园站 →</string>
+				<string>市中医医院站 →</string>
+				<string>顾乡站 →</string>
+				<string>十四中学站 →</string>
+				<string>武警指挥学校站 →</string>
+				<string>省五院站 (共33站</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>89路(哈东站→安隆街)</string>
+			<key>quotations</key>
+			<array>
+				<string>哈东站 →</string>
+				<string>桦树街站 →</string>
+				<string>南直商场站 →</string>
+				<string>药六嘉园站 →</string>
+				<string>宏图街站 →</string>
+				<string>红平小区站 →</string>
+				<string>红旗家具城站 →</string>
+				<string>辽河路(红旗大街口)站 →</string>
+				<string>辽河市场站 →</string>
+				<string>辽河小区站 →</string>
+				<string>哈工大第二学区站 →</string>
+				<string>黄河路站 →</string>
+				<string>宣庆小区站 →</string>
+				<string>十字街站 →</string>
+				<string>芦家街站 →</string>
+				<string>人和街站 →</string>
+				<string>儿童公园(东门)站 →</string>
+				<string>辽阳街站 →</string>
+				<string>花园商店站 →</string>
+				<string>医大一院站 →</string>
+				<string>阿什河街(邮政街路口)站 →</string>
+				<string>哈三中(哈医大第四医院)站 →</string>
+				<string>哈站 →</string>
+				<string>下夹树街站 →</string>
+				<string>货栈街站 →</string>
+				<string>教化广场站 →</string>
+				<string>抚顺街站 →</string>
+				<string>安发桥站 →</string>
+				<string>安广街站 →</string>
+				<string>安丰街站 →</string>
+				<string>安定街站 →</string>
+				<string>安隆街站 (共32站)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>playName</key>
+			<string>91路(河松小区→省电力医院)</string>
+			<key>quotations</key>
+			<array>
+				<string>河松小区站 →</string>
+				<string>华风江畔小区站 →</string>
+				<string>河松街站 →</string>
+				<string>哈报印务中心站 →</string>
+				<string>市中医医院站 →</string>
+				<string>建国公园站 →</string>
+				<string>建国街站 →</string>
+				<string>新阳路站 →</string>
+				<string>民安街站 →</string>
+				<string>抚顺街站 →</string>
+				<string>市人才市场站 →</string>
+				<string>人力资源市场(安宁街)站 →</string>
+				<string>市银行站 →</string>
+				<string>国信证券公司站 →</string>
+				<string>住房公积金中心(市游泳馆)站 →</string>
+				<string>南极市场站 →</string>
+				<string>东大直街站 →</string>
+				<string>儿童公园(东门)站 →</string>
+				<string>大成街站 →</string>
+				<string>十字街站 →</string>
+				<string>平公街站 →</string>
+				<string>宣庆街站 →</string>
+				<string>黄河路站 →</string>
+				<string>哈工大第二学区站 →</string>
+				<string>辽河小区站 →</string>
+				<string>淮河路(红旗大街街口)站 →</string>
+				<string>会展中心站 →</string>
+				<string>松雷中学站 →</string>
+				<string>闽江小区站 →</string>
+				<string>泰山路站 →</string>
+				<string>省电力医院站 (共31站)</string>
+			</array>
+		</dict>
+	</array>
+</array>
+</plist>

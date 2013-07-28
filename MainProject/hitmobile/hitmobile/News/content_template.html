@@ -1,0 +1,23 @@
+<html><head>
+    <link rel="stylesheet" type="text/css" href="content.css" />
+    
+</head><body>
+    
+    <div id="title_section">
+        <div id='title'>{{title}}</div>
+        <div id='subtitle'>{{ptime}}　{{author}}</div>
+    </div>
+    
+    <div id="body_section">
+        {{content_image}}
+        {{body}}
+    </div>
+    
+    <script>
+        function clickLink(){
+            var url = "hit:image:zoom";
+            document.location = url;
+        }
+        </script>
+    
+</body></html>

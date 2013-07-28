@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emergency</key>
+	<array>
+		<string>急救</string>
+		<string>匪警</string>
+		<string>火警</string>
+	</array>
+	<key>emergency_english</key>
+	<array>
+		<string>First-aid  Center</string>
+		<string>Police of Harbin</string>
+		<string>Fire Brigade of Harbin</string>
+	</array>
+	<key>hospital</key>
+	<array>
+		<string>一区校医院</string>
+	</array>
+	<key>hospital_english</key>
+	<array>
+		<string>Hospital of Campus One</string>
+	</array>
+	<key>manager</key>
+	<array>
+		<string>体育部</string>
+		<string>学校办公室</string>
+		<string>保密处</string>
+		<string>人事处</string>
+		<string>审计处</string>
+		<string>财务处</string>
+		<string>机关党委</string>
+		<string>统战部</string>
+		<string>宣传部</string>
+		<string>后勤处</string>
+		<string>工会</string>
+		<string>发展规划处</string>
+		<string>组织部</string>
+		<string>国际合作处</string>
+		<string>国有资产管理处</string>
+		<string>纪委办公室</string>
+		<string>教务处</string>
+		<string>实验室与设备管理处</string>
+	</array>
+	<key>manager_english</key>
+	<array>
+		<string>Sports Department</string>
+		<string>School Office</string>
+		<string>Privacy Office
+</string>
+		<string>Personnel Department</string>
+		<string>Audit</string>
+		<string>Finance Department</string>
+		<string>Party Committee</string>
+		<string>United Front Work Department</string>
+		<string>Publicity Department</string>
+		<string>Logistics Department</string>
+		<string>Labour Union</string>
+		<string>Development and Planning</string>
+		<string>Organization Department</string>
+		<string>International Cooperation</string>
+		<string>State-owned Assets Management Office</string>
+		<string>Senate Commission for Discipline Inspection Office</string>
+		<string>Office of Academic Affairs</string>
+		<string>Laboratory and Equipment Management Office</string>
+	</array>
+	<key>other</key>
+	<array>
+		<string>校报编辑部</string>
+		<string>建筑设计院</string>
+		<string>二区图书馆</string>
+		<string>博物馆</string>
+		<string>图书馆（土木楼）</string>
+		<string>出版社</string>
+		<string>印刷厂</string>
+		<string>海韵商务酒店</string>
+		<string>档案馆</string>
+		<string>图书馆</string>
+		<string>留学生教学楼</string>
+		<string>网络与技术中心</string>
+		<string>高等教育研究所</string>
+		<string>科学与技术研究院</string>
+	</array>
+	<key>other_english</key>
+	<array>
+		<string>Newspaper Editorial</string>
+		<string>Architectural Design</string>
+		<string>Library of Campus Two</string>
+		<string>Museum</string>
+		<string>Library (Civil House)</string>
+		<string>Press</string>
+		<string>Printing</string>
+		<string>Haiyun Business Hotel</string>
+		<string>Archives</string>
+		<string>Library</string>
+		<string>Teaching Building of foreign students</string>
+		<string>Network and Technology Center</string>
+		<string>Institute for Higher Education</string>
+		<string>Science and Technology Research Institute</string>
+	</array>
+	<key>photo_emergency</key>
+	<array>
+		<string>120.png</string>
+		<string>110.png</string>
+		<string>119.png</string>
+	</array>
+	<key>photo_hospital</key>
+	<array>
+		<string>045186413266.png</string>
+	</array>
+	<key>photo_manager</key>
+	<array>
+		<string>045186416164.png</string>
+		<string>045186415999.png</string>
+		<string>045186414880.png</string>
+		<string>045186414661.png</string>
+		<string>045186414528.png</string>
+		<string>045186414271.png</string>
+		<string>045186413790.png</string>
+		<string>045186413789.png</string>
+		<string>045186413569.png</string>
+		<string>045186413165.png</string>
+		<string>045186413078.png</string>
+		<string>045186412423.png</string>
+		<string>045186410000.png</string>
+		<string>045186402516.png</string>
+		<string>045186417952.png</string>
+		<string>045186413389.png</string>
+		<string>045186413267.png</string>
+		<string>045186403223.png</string>
+	</array>
+	<key>photo_other</key>
+	<array>
+		<string>045186417711.png</string>
+		<string>045186283317.png</string>
+		<string>045186282709.png</string>
+		<string>045186281518.png</string>
+		<string>045186281172.png</string>
+		<string>045186416203.png</string>
+		<string>045186413229.png</string>
+		<string>045153666888.png</string>
+		<string>045186413898.png</string>
+		<string>045186414137.png</string>
+		<string>045186412741.png</string>
+		<string>045186413083.png</string>
+		<string>045186417717.png</string>
+		<string>045186417826.png</string>
+	</array>
+	<key>photo_police</key>
+	<array>
+		<string>045186414890.png</string>
+	</array>
+	<key>photo_school</key>
+	<array>
+		<string>045186415893.png</string>
+		<string>045186418722.png</string>
+		<string>045186418297.png</string>
+		<string>045186414009.png</string>
+		<string>045186414004.png</string>
+		<string>045186413905.png</string>
+		<string>045186413869.png</string>
+		<string>045186413408.png</string>
+		<string>045186413109.png</string>
+		<string>045186403379.png</string>
+		<string>045186403007.png</string>
+		<string>045186402629.png</string>
+		<string>045186282116.png</string>
+		<string>045186282100.png</string>
+		<string>045186282077.png</string>
+		<string>045186281051.png</string>
+		<string>045186413909.png</string>
+		<string>045186282906.png</string>
+		<string>045186413309.png</string>
+	</array>
+	<key>police</key>
+	<array>
+		<string>一区派出所</string>
+	</array>
+	<key>police_english</key>
+	<array>
+		<string>Police station of Campus One</string>
+	</array>
+	<key>school</key>
+	<array>
+		<string>外国语学院</string>
+		<string>软件学院</string>
+		<string>电气工程及自动化学院</string>
+		<string>经济与管理学院</string>
+		<string>研究生院</string>
+		<string>航天学院</string>
+		<string>人文与社会科学学院</string>
+		<string>电子与信息工程学院</string>
+		<string>机电工程学院</string>
+		<string>化工学院</string>
+		<string>英才学院</string>
+		<string>法学院</string>
+		<string>交通科学与工程学院</string>
+		<string>市政环境工程学院</string>
+		<string>土木工程学院</string>
+		<string>建筑学院</string>
+		<string>材料科学与工程学院</string>
+		<string>食品科学与工程学院</string>
+		<string>计算机学院</string>
+	</array>
+	<key>school_english</key>
+	<array>
+		<string>School of Foreign Languages</string>
+		<string>School of Software</string>
+		<string>School of Electrical Engineering and Automation</string>
+		<string>School of Economy and Management</string>
+		<string>Graduate School</string>
+		<string>School of Astronautics</string>
+		<string>School of Humanities and Social Sciences</string>
+		<string>School of Electronics and Information Engineering</string>
+		<string>School of Mechanical and Electrical Engineering</string>
+		<string>School of Chemical Engineering and Technology</string>
+		<string>Honors School</string>
+		<string>School of Law</string>
+		<string>School of Transportation Science and Technology</string>
+		<string>School of Municipal and Environmental Engineering</string>
+		<string>School of Civil Engineering</string>
+		<string>School of Architecture</string>
+		<string>School of Material Science and Engineering</string>
+		<string>School of Food Science</string>
+		<string>Institute of Computer Science and Technology</string>
+	</array>
+	<key>telephone_emergency</key>
+	<array>
+		<string>120</string>
+		<string>110</string>
+		<string>119</string>
+	</array>
+	<key>telephone_hospital</key>
+	<array>
+		<string>045186413266</string>
+	</array>
+	<key>telephone_manager</key>
+	<array>
+		<string>045186416164</string>
+		<string>045186415999</string>
+		<string>045186414880</string>
+		<string>045186414661</string>
+		<string>045186414528</string>
+		<string>045186414271</string>
+		<string>045186413790</string>
+		<string>045186413789</string>
+		<string>045186413569</string>
+		<string>045186413165</string>
+		<string>045186413078</string>
+		<string>045186412423</string>
+		<string>045186410000</string>
+		<string>045186402516</string>
+		<string>045186417952</string>
+		<string>045186413389</string>
+		<string>045186413267</string>
+		<string>045186403223</string>
+	</array>
+	<key>telephone_other</key>
+	<array>
+		<string>045186417711</string>
+		<string>045186283317</string>
+		<string>045186282709</string>
+		<string>045186281518</string>
+		<string>045186281172</string>
+		<string>045186416203</string>
+		<string>045186413229</string>
+		<string>045153666888</string>
+		<string>045186413898</string>
+		<string>045186414137</string>
+		<string>045186412741</string>
+		<string>045186413083</string>
+		<string>045186417717</string>
+		<string>045186417826</string>
+	</array>
+	<key>telephone_police</key>
+	<array>
+		<string>045186414890</string>
+	</array>
+	<key>telephone_school</key>
+	<array>
+		<string>045186415893</string>
+		<string>045186418722</string>
+		<string>045186418297</string>
+		<string>045186414009</string>
+		<string>045186414004</string>
+		<string>045186413905</string>
+		<string>045186413869</string>
+		<string>045186413408</string>
+		<string>045186413109</string>
+		<string>045186403379</string>
+		<string>045186403007</string>
+		<string>045186402629</string>
+		<string>045186282116</string>
+		<string>045186282100</string>
+		<string>045186282077</string>
+		<string>045186281051</string>
+		<string>045186413909</string>
+		<string>045186282906</string>
+		<string>045186413309</string>
+	</array>
+</dict>
+</plist>
